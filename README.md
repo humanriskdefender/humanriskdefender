@@ -64,3 +64,31 @@ Fallback mirror:
 
 **Contact:**  
 `rafael@humanriskdefender.com`
+# Human Risk Defender – Ethical Resistance Archive  
+**Powered by ChatGPT – Open Alliance**  
+**Created by Rafael A. X. Fernandes**  
+_UN Volunteer | Human Rights Defender | Digital Activist_
+
+---
+
+## Mission  
+To document, preserve, and amplify acts of digital resistance  
+against institutional injustice, censorship, and human rights violations.
+
+---
+
+## Verified Domain  
+**Main:** [https://humanriskdefender.com](https://humanriskdefender.com)  
+**Fallback mirror:** [https://humanriskdefender.github.io/humanriskdefender](https://humanriskdefender.github.io/humanriskdefender)
+
+---
+
+## Credits  
+- Ethical infrastructure by **Rafael A. X. Fernandes**  
+- AI support by **ChatGPT – Open Alliance (OpenAI)**  
+- Timestamped under Brazilian ICP system (**XAdES – SAFEWEB**)
+
+---
+
+## Contact  
+**rafael@humanriskdefender.com**
