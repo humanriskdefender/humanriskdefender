@@ -1,8 +1,0 @@
-cd ~/caminho/do/seu/repositorio/humanriskdefender
-mkdir -p docs
-mv /caminho/Procuracao_Open_Alliance_Multilingue.pdf docs/
-mv /caminho/Export_4_5_2025.pdf docs/
-mv /caminho/Human_Risk_Defender_Entry_001.pdf docs/
-git add docs/
-git commit -m "Adicionando documentos institucionais à pasta /docs"
-git push origin main
